@@ -13,7 +13,7 @@ In this research we use deep learning technology by transfer learning method fro
 
 
 ```bibtex
-@inproceedings{ICETIR,
+@inproceedings{ICETIR},
   author    = {I. Rosyadi and V.H. Hidarlan and F. Asriani and R. Ediati},
   title     = {Rice Variety Classification},
   booktitle = {ICETIR 2020},

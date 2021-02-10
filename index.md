@@ -6,7 +6,7 @@ subtitle: Research Group
 
 ![](https://raw.githubusercontent.com/Soedirman-Machine-Learning/soedirman-machine-learning.github.io/master/img/SMLRG_with_link.gif)
 
-> Wanna to join our research group? Contact us, check below!
+> Wanna join our research group? Contact us, check below!
 
 ## News
 - February 2, 2021, Noer Aditama successfully defends his bachelor thesis "Rice Quality Classification using Convolutional Neural Network and its Android App" 
