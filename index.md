@@ -4,7 +4,7 @@ title:  Soedirman Machine Learning (SMiLe)
 subtitle: Research Group
 ---
 
-
+![](https://raw.githubusercontent.com/Soedirman-Machine-Learning/soedirman-machine-learning.github.io/master/img/SMLRG_with_link.gif)
 
 ## News
 - Wanna join our research group? Contact us, check below!
