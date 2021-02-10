@@ -4,7 +4,10 @@ title:  Soedirman Machine Learning (SMiLe)
 subtitle: Research Group
 ---
 
+
+
 ## News
+- Wanna join our research group? Contact us, check below!
 - February 2, 2021, Noer Aditama successfuly defends his bachelor thesis "Rice Quality Classification using Convolutional Neural Network and its Android App" 
 - February 9, 2021, Muhammad Fakhrurrozi Sutisna finally presents his thesis "Deep Learning for Facemask Detection"
 
@@ -21,8 +24,13 @@ Indonesia
 Email: imron.rosyadi[at]unsoed.ac.id
 ```
 
-## Current members of the research group
-- [Imron Rosyadi](https://github.com/irosyadi)
+## Permanent Members
+- [Imron Rosyadi](https://irosyadi-lp.netlify.app/), [Github Profile](https://github.com/irosyadi)
+- [M. Syaiful Aliim](https://github.com/msaluck)
+- Farida Asrian
+- Rifah Ediati
+
+## Current Members
 - [Noer Aditama](https://github.com/noerAditama) "Rice Quality Classification"
 - [Fakhrurozi Sutisna](https://github.com/sifakhru) "Facemask Detection"
 - Dwi Ristiawan
@@ -31,15 +39,21 @@ Email: imron.rosyadi[at]unsoed.ac.id
 - Ady Septy Widiawati
 - Dhiemas Fatah Mujahid
 
-## Past members of the research group
+## Past Members
 - [Vidy Fitriansyah Hidarlan](https://github.com/Vidi005) "Rice Variety Classification"
 - [Fendy Prayogi](https://github.com/Gio1709) "Paddy Field Area Identification"
 - [Jepri](https://github.com/jeffreymas) "Plant Disease Classification"
 
-## Lab project repository
+## Project Repositories
+- [Rice Varieties Classification](https://github.com/Soedirman-Machine-Learning/rice-varieties-classification)
+- [Plant Disease Classification](https://github.com/Soedirman-Machine-Learning/Plant-disease)
+- [Paddy Field Area Identification](https://github.com/Soedirman-Machine-Learning/Identification_paddy_field)
+- [Rice Quality Classification](https://github.com/Soedirman-Machine-Learning/rice-quality-classification)
+-[Facemask Detection](https://github.com/Soedirman-Machine-Learning/face-mask-detection)
 
-- [RQS](https://soedirman-machine-learning.github.io): Rice Quality Scanner. 
-
+## Resources
+- [Interactive AI - OKAI](https://irosyadi-okai.netlify.app/)
+- [MK Machine Learning at Unsoed](https://irosyadi.netlify.app/course/mk-machine-learning/)
 
 ## Grants
 - Riset Kompetensi BLU Unsoed 2020
