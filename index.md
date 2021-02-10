@@ -6,9 +6,10 @@ subtitle: Research Group
 
 ![](https://raw.githubusercontent.com/Soedirman-Machine-Learning/soedirman-machine-learning.github.io/master/img/SMLRG_with_link.gif)
 
+> Wanna to join our research group? Contact us, check below!
+
 ## News
-- Wanna join our research group? Contact us, check below!
-- February 2, 2021, Noer Aditama successfuly defends his bachelor thesis "Rice Quality Classification using Convolutional Neural Network and its Android App" 
+- February 2, 2021, Noer Aditama successfully defends his bachelor thesis "Rice Quality Classification using Convolutional Neural Network and its Android App" 
 - February 9, 2021, Muhammad Fakhrurrozi Sutisna finally presents his thesis "Deep Learning for Facemask Detection"
 
 ## Contact
@@ -27,7 +28,7 @@ Email: imron.rosyadi[at]unsoed.ac.id
 ## Permanent Members
 - [Imron Rosyadi](https://irosyadi-lp.netlify.app/), [Github Profile](https://github.com/irosyadi)
 - [M. Syaiful Aliim](https://github.com/msaluck)
-- Farida Asrian
+- Farida Asriani
 - Rifah Ediati
 
 ## Current Members
@@ -49,12 +50,12 @@ Email: imron.rosyadi[at]unsoed.ac.id
 - [Plant Disease Classification](https://github.com/Soedirman-Machine-Learning/Plant-disease)
 - [Paddy Field Area Identification](https://github.com/Soedirman-Machine-Learning/Identification_paddy_field)
 - [Rice Quality Classification](https://github.com/Soedirman-Machine-Learning/rice-quality-classification)
--[Facemask Detection](https://github.com/Soedirman-Machine-Learning/face-mask-detection)
+- [Facemask Detection](https://github.com/Soedirman-Machine-Learning/face-mask-detection)
 
 ## Resources
 - [Interactive AI - OKAI](https://irosyadi-okai.netlify.app/)
 - [MK Machine Learning at Unsoed](https://irosyadi.netlify.app/course/mk-machine-learning/)
 
-## Grants
+## Related Grants
 - Riset Kompetensi BLU Unsoed 2020
 - Riset Dasar BLU Unsoed 2021
