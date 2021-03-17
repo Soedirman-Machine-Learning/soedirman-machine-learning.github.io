@@ -32,15 +32,16 @@ Email: imron.rosyadi[at]unsoed.ac.id
 - Rifah Ediati
 
 ## Current Members
-- [Noer Aditama](https://github.com/noerAditama) "Rice Quality Classification"
-- [Fakhrurozi Sutisna](https://github.com/sifakhru) "Facemask Detection"
-- Dwi Ristiawan
-- Rokhi Iman Sarofi
-- Mumtaz Prima Rahmaputra
-- Ady Septy Widiawati
-- Dhiemas Fatah Mujahid
+- Rokhi Iman Sarofi "CT-Scan Classification"
+- Mumtaz Prima Rahmaputra "Helmet and Plate Detection"
+- Ady Septy Widiawati "Emotion Detection"
+- Dwi Ristiawan "Virtual Sensor using RNN"
+- Dhiemas Fatah Mujahid "Land Use Classification"
+- Abu Bakar Shidiq Al Muqayyim "Sign Language Detection"
 
 ## Past Members
+- [Noer Aditama](https://github.com/noerAditama) "Rice Quality Classification"
+- [Fakhrurozi Sutisna](https://github.com/sifakhru) "Facemask Detection"
 - [Vidy Fitriansyah Hidarlan](https://github.com/Vidi005) "Rice Variety Classification"
 - [Fendy Prayogi](https://github.com/Gio1709) "Paddy Field Area Identification"
 - [Jepri](https://github.com/jeffreymas) "Plant Disease Classification"
